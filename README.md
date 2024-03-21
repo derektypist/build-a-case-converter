@@ -14,4 +14,4 @@ Copy the contents of `main.py` into the text editor of your choice.  Then run th
 
 ### Acknowledgements
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+[FreeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
